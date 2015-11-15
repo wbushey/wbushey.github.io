@@ -19,7 +19,7 @@ Many websites use Flash for functions such as games, streaming video, displaying
 
 ## How to Get Rid of Them
 
-Your browser can’t stop or delete Flash cookies. Fortunately, Adobe does provide a way for you to control some Flash cookie settings through the Flash Settings Manager (more information about the Settings Manager can be found <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html" target="_blank">here</a>.) Changes made in the Flash Settings Manager apply to all browsers installed on your computer/OS, so fortunately you don’t have to repeat the following for Firefox, IE, Safari, Chrome, etc… Also, changes take effect immediately, so you don&#8217;t have to worry about saving settings or clicking any &#8220;Apply&#8221; or &#8220;OK&#8221; buttons.
+Your browser can't stop or delete Flash cookies. Fortunately, Adobe does provide a way for you to control some Flash cookie settings through the Flash Settings Manager (more information about the Settings Manager can be found <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html" target="_blank">here</a>.) Changes made in the Flash Settings Manager apply to all browsers installed on your computer/OS, so fortunately you don't have to repeat the following for Firefox, IE, Safari, Chrome, etc… Also, changes take effect immediately, so you don&#8217;t have to worry about saving settings or clicking any &#8220;Apply&#8221; or &#8220;OK&#8221; buttons.
 
 In order to protect your privacy though the Settings Manager you must do two things: prevent new flash cookies from being saved to your computer; and delete existing flash cookies as well as the list of flash-enabled websites that you have visited.
 

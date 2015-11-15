@@ -1,5 +1,5 @@
 ---
-title: How a tech company doesn’t get the Digital Divide
+title: How a tech company doesn't get the Digital Divide
 author: bill
 layout: post
 permalink: /2012/01/how-a-tech-company-doesnt-get-the-digital-divide/

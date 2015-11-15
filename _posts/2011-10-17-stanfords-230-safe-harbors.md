@@ -1,5 +1,5 @@
 ---
-title: Stanford’s 230 Safe Harbors
+title: Stanford's 230 Safe Harbors
 author: bill
 layout: post
 permalink: /2011/10/stanfords-230-safe-harbors/

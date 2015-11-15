@@ -11,7 +11,7 @@ tags:
   - Privacy
 ---
 > <p class="MsoQuote">
->   “… there is no way we should do business with companies that have agreements with stealth provisions and that aren’t intelligible. So how are we going to change the world? Make clarity, transparency, and simplicity a national priority.”
+>   “… there is no way we should do business with companies that have agreements with stealth provisions and that aren't intelligible. So how are we going to change the world? Make clarity, transparency, and simplicity a national priority.”
 > </p>
 
 <p class="MsoQuote">
@@ -42,7 +42,7 @@ tags:
   </p>
   
   <p class="MsoQuote">
-    “… there is no way we should do business with companies that have agreements with stealth provisions and that aren’t intelligible. So how are we going to change the world? Make clarity, transparency, and simplicity a national priority.” – Alan Siegel (Siegel, 2010)
+    “… there is no way we should do business with companies that have agreements with stealth provisions and that aren't intelligible. So how are we going to change the world? Make clarity, transparency, and simplicity a national priority.” – Alan Siegel (Siegel, 2010)
   </p>
   
   <p class="MsoNormal" style="margin: 0in 0in 6pt 0.5in; text-indent: -0.5in;">
@@ -54,7 +54,7 @@ tags:
   </p>
   
   <p class="MsoQuote">
-    “… there is no way we should do business with companies that have agreements with stealth provisions and that aren’t intelligible. So how are we going to change the world? Make clarity, transparency, and simplicity a national priority.” – Alan Siegel (Siegel, 2010)
+    “… there is no way we should do business with companies that have agreements with stealth provisions and that aren't intelligible. So how are we going to change the world? Make clarity, transparency, and simplicity a national priority.” – Alan Siegel (Siegel, 2010)
   </p>
   
   <p>

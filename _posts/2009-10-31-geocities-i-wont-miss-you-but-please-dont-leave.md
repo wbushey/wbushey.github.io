@@ -1,5 +1,5 @@
 ---
-title: Geocities, I Won’t Miss You, But Please Don’t Leave
+title: Geocities, I Won't Miss You, But Please Don't Leave
 author: bill
 layout: post
 permalink: /2009/10/geocities-i-wont-miss-you-but-please-dont-leave/

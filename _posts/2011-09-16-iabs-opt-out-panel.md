@@ -1,5 +1,5 @@
 ---
-title: IAB’s Opt-Out Panel
+title: IAB's Opt-Out Panel
 author: bill
 excerpt: "While the new code of conduct has taken flack for not actually providing clear notice, this latest action by the IAB does bring some attention to the organization's (beta) Opt-Out page. The Opt-Out page provides users with a way to request that IAB members not collect information about them for advertising purposes. The page, located at http://www.aboutads.info/choices/, is pretty simple to use. Unfortunately, it is also pretty useless since it relies on cookies, which privacy concerned users are probably blocking."
 layout: post
