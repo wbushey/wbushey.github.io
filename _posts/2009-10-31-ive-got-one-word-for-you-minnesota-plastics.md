@@ -1,5 +1,5 @@
 ---
-title: 'I&#8217;ve Got One Word For You Minnesota, Plastics!'
+title: 'I've Got One Word For You Minnesota, Plastics!'
 author: bill
 excerpt: An economic argument for why Minnesota should jump start a sustainable polymers industry.
 layout: post
@@ -14,7 +14,7 @@ My blog has been pretty quiet over the last couple of months as I have adjusted 
 
 <hr size="2" />
 
-> &#8220;Plastic, the material that is as essential to modern life as electricity, faces a bleak future due to the impending shriveling of Earth&#8217;s oil supply. As Karen Youso recently discovered for her article &#8220;[Six days without plastic? Good luck][1]&#8220;, we really can&#8217;t sustain modern life without plastic. This begs the question, what are we going to do? Fortunately, recent scientific advancements have shown that we can continue to manufacture plastic by replacing oil with biobased sources.&#8221;
+> "Plastic, the material that is as essential to modern life as electricity, faces a bleak future due to the impending shriveling of Earth's oil supply. As Karen Youso recently discovered for her article "[Six days without plastic? Good luck][1]", we really can't sustain modern life without plastic. This begs the question, what are we going to do? Fortunately, recent scientific advancements have shown that we can continue to manufacture plastic by replacing oil with biobased sources."
 
 Read the full post at <a href="http://blog.lib.umn.edu/cstpp/policycatalyst/2009/10/ive_got_one_word_for_you_minne.php" target="_blank">Policy Catalyst</a>.
 

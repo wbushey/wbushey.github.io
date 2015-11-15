@@ -29,7 +29,7 @@ tags:
 </p>
 
 <p class="MsoNormal">
-  Perez&#8217;s argument is about the end product, the features and quality of the computer platform that I will hold in my hands. What is missing, however, is a consideration for the process. How will that end product get made? Who will make it? What role will I, as a consumer, have in the production process? While analysis continues to revolve around the quality and features of the software on the iPad, the issue that really motivates jailbreaking is the desire to change the process that leads to software on the iPad. Autonomy is the real motivation. Consumers remember having the power to define their computing platform and there are many who are not ready to cede that power to some licensors in Cupertino.
+  Perez's argument is about the end product, the features and quality of the computer platform that I will hold in my hands. What is missing, however, is a consideration for the process. How will that end product get made? Who will make it? What role will I, as a consumer, have in the production process? While analysis continues to revolve around the quality and features of the software on the iPad, the issue that really motivates jailbreaking is the desire to change the process that leads to software on the iPad. Autonomy is the real motivation. Consumers remember having the power to define their computing platform and there are many who are not ready to cede that power to some licensors in Cupertino.
 </p>
 
 <!--more-->
@@ -39,11 +39,11 @@ tags:
 </p>
 
 <p class="MsoNormal">
-  The attack on autonomy posed by Apple&#8217;s licensed market is greater than just limiting the number of programs available, however. A deeper, and more troubling, issue is the fact that Apple has taken over the role of decider of what a good product is. As a consumer, deciding that a product meets my needs and desires is my most fundamental power and my most basic task in an economy. Normally I would exercise this power on an unfiltered and large pool of products. In the case of Apple&#8217;s app store, however, somebody else (the licensors) has already done some of that deciding for me. Some might argue that this is convenient &#8211; Apple has already filtered out the sub-par apps and left the consumer with only the gems to choose from. Others, I among them, counter with this argument: is Apple&#8217;s definition of sub-par the same as mine?
+  The attack on autonomy posed by Apple's licensed market is greater than just limiting the number of programs available, however. A deeper, and more troubling, issue is the fact that Apple has taken over the role of decider of what a good product is. As a consumer, deciding that a product meets my needs and desires is my most fundamental power and my most basic task in an economy. Normally I would exercise this power on an unfiltered and large pool of products. In the case of Apple's app store, however, somebody else (the licensors) has already done some of that deciding for me. Some might argue that this is convenient &#8211; Apple has already filtered out the sub-par apps and left the consumer with only the gems to choose from. Others, I among them, counter with this argument: is Apple's definition of sub-par the same as mine?
 </p>
 
 <p class="MsoNormal">
-  Perhaps Apple and I share the same thoughts on what qualifies as good software, what belongs on the iPad. Perhaps, going even further, it turns out that everybody shares the same thoughts on what qualifies as good software. A glance at the history of personal computer usage suggests otherwise. It is universally common for consumers to install additional software on their PCs after buying them because PC manufactures (or the user for that matter) cannot know ahead of time what a given user&#8217;s needs, desires, and criteria for quality are. It is also common to find that the software installed on the PCs of two different users (and even two PCs of the same user) will differ, reflecting the differences in needs, desires, and criteria across the population. There is no universal definition of what good software is, and no universal set of needs and desires which can be used to tailor a computer platform.
+  Perhaps Apple and I share the same thoughts on what qualifies as good software, what belongs on the iPad. Perhaps, going even further, it turns out that everybody shares the same thoughts on what qualifies as good software. A glance at the history of personal computer usage suggests otherwise. It is universally common for consumers to install additional software on their PCs after buying them because PC manufactures (or the user for that matter) cannot know ahead of time what a given user's needs, desires, and criteria for quality are. It is also common to find that the software installed on the PCs of two different users (and even two PCs of the same user) will differ, reflecting the differences in needs, desires, and criteria across the population. There is no universal definition of what good software is, and no universal set of needs and desires which can be used to tailor a computer platform.
 </p>
 
 <p class="MsoNormal">
@@ -51,5 +51,5 @@ tags:
 </p>
 
 <p class="MsoNormal">
-  This is why jailbreaking happens. People want to buy Apple&#8217;s hardware, but they want to maintain their own needs and desires. They want to be autonomous users, not the consumers that Apple thinks they should be.
+  This is why jailbreaking happens. People want to buy Apple's hardware, but they want to maintain their own needs and desires. They want to be autonomous users, not the consumers that Apple thinks they should be.
 </p>

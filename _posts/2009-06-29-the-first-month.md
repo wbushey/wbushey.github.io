@@ -13,7 +13,7 @@ tags:
 <!-- 		@page { margin: 0.79in } 		P { margin-bottom: 0.08in } 		A:link { so-language: zxx } 	-->
 
 <p style="margin-bottom: 0in;">
-  It&#8217;s the end of June, which means it is the end of my first month of working on TermsWatch. So what has happened in this first month?
+  It's the end of June, which means it is the end of my first month of working on TermsWatch. So what has happened in this first month?
 </p>
 
 <h3 style="margin-bottom: 0in;">
@@ -21,7 +21,7 @@ tags:
 </h3>
 
 <p style="margin-bottom: 0in;">
-  The first few days of the month were spent settling in at Berkman and getting my new(ish) laptop ready for work. By Thursday I was ready to get down to business. Well, it just so happened that Thursday was launch day for the <a href="http://www.eff.org" target="_blank">EFF</a>&#8216;s latest project, <a href="http://www.tosback.org" target="_blank">TOSBack</a>. I spent Thursday afternoon playing around with TOSBack and finding out as much as I could about it. I then spent the next few days running around like a chicken with its head cut off; TOSBack does half of what I was going to do. I thought to myself, &#8220;well what do I do now?&#8221;
+  The first few days of the month were spent settling in at Berkman and getting my new(ish) laptop ready for work. By Thursday I was ready to get down to business. Well, it just so happened that Thursday was launch day for the <a href="http://www.eff.org" target="_blank">EFF</a>'s latest project, <a href="http://www.tosback.org" target="_blank">TOSBack</a>. I spent Thursday afternoon playing around with TOSBack and finding out as much as I could about it. I then spent the next few days running around like a chicken with its head cut off; TOSBack does half of what I was going to do. I thought to myself, "well what do I do now?"
 </p>
 
 <p style="margin-bottom: 0in;">
@@ -37,5 +37,5 @@ tags:
 </p>
 
 <p style="margin-bottom: 0in;">
-  The latest, and current, problem that I have been tackling is how to extract the important information from a web page. Fortunately, as is becoming a common occurrence this summer, it turns out there are quite a few bright people in our small area who have done work like this, and they are all easy to talk to. I&#8217;ve spent nearly a week talking to these bright people, gaining insight into various approaches and understanding exactly what it is I need to do. I have a pretty good idea what it is I am going to do now (for those interested in the technical stuff, check out this <a href="https://adam.law.harvard.edu/trac/termswatch/wiki/Scraper" target="_blank">summary of the extractor</a>,) and with a new week on the horizon, I hope to get this thing working quickly.
+  The latest, and current, problem that I have been tackling is how to extract the important information from a web page. Fortunately, as is becoming a common occurrence this summer, it turns out there are quite a few bright people in our small area who have done work like this, and they are all easy to talk to. I've spent nearly a week talking to these bright people, gaining insight into various approaches and understanding exactly what it is I need to do. I have a pretty good idea what it is I am going to do now (for those interested in the technical stuff, check out this <a href="https://adam.law.harvard.edu/trac/termswatch/wiki/Scraper" target="_blank">summary of the extractor</a>,) and with a new week on the horizon, I hope to get this thing working quickly.
 </p>

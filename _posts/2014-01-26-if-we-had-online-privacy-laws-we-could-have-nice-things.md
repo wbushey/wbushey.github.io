@@ -6,7 +6,7 @@ permalink: /2014/01/if-we-had-online-privacy-laws-we-could-have-nice-things/
 categories:
   - Uncategorized
 ---
-(Note: this is a copy of <a href="https://groups.google.com/forum/#!topic/twin-cities-brigade/3qACA9NcCuA" target="_blank">a post I made in the Open Twin Cities forum</a>, responding to a thread about The <a href="http://m.theatlantic.com/international/archive/2014/01/lessons-from-the-worlds-most-tech-savvy-government/283341/" target="_blank">Atlantic&#8217;s recent article on Estonia&#8217;s leading use of digital information and authentication assets to create a modern platform for markets and governance</a>.)
+(Note: this is a copy of <a href="https://groups.google.com/forum/#!topic/twin-cities-brigade/3qACA9NcCuA" target="_blank">a post I made in the Open Twin Cities forum</a>, responding to a thread about The <a href="http://m.theatlantic.com/international/archive/2014/01/lessons-from-the-worlds-most-tech-savvy-government/283341/" target="_blank">Atlantic's recent article on Estonia's leading use of digital information and authentication assets to create a modern platform for markets and governance</a>.)
 
 If we could learn just one lesson from Estonia, I'd like it to be this:
 

@@ -15,7 +15,7 @@ tags:
 > </p>
 
 <p class="MsoQuote">
-  A year and a half ago, Alan Siegel described in less than 5 minutes why the problems of privacy and consumer trust run rampant on the Internet. That legalese that every website presents you doesn&#8217;t actually inform you of anything. It is a tool of websites to obtain legal authorizations and protection.
+  A year and a half ago, Alan Siegel described in less than 5 minutes why the problems of privacy and consumer trust run rampant on the Internet. That legalese that every website presents you doesn't actually inform you of anything. It is a tool of websites to obtain legal authorizations and protection.
 </p>
 
 <!--copy and paste-->
@@ -25,11 +25,11 @@ tags:
 </p>
 
 <p class="MsoQuote">
-  Why aren&#8217;t clear notices a national priority? Siegel thinks they should be. The FTC has stated <a href="http://www.ftc.gov/os/2009/02/P085400behavadreport.pdf" target="_blank">again</a> and <a href="www.ftc.gov/os/2010/12/101201privacyreport.pdf" target="_blank">again</a> that consumer notices should be clear and easy to understand. Unfortunately, industry self-regulation bodies and Congress don&#8217;t seem to be as interested in presenting consumers with clear and transparent information.
+  Why aren't clear notices a national priority? Siegel thinks they should be. The FTC has stated <a href="http://www.ftc.gov/os/2009/02/P085400behavadreport.pdf" target="_blank">again</a> and <a href="www.ftc.gov/os/2010/12/101201privacyreport.pdf" target="_blank">again</a> that consumer notices should be clear and easy to understand. Unfortunately, industry self-regulation bodies and Congress don't seem to be as interested in presenting consumers with clear and transparent information.
 </p>
 
 <p class="MsoQuote">
-  Why aren&#8217;t clear notices a national priority? I think we should ask the DMA&#8217;s <a href="mailto:privacy@the-dma.org" target="_blank">Consumer, Ethics, and Privacy </a>department, or IAB President <a href="mailto:Randall@iab.net" target="_blank">Randall Rothenberg</a>. More importantly, we should ask that question to our <a href="https://writerep.house.gov/writerep/welcome.shtml" target="_blank">Representatives</a> and <a href="https://www.senate.gov/general/contact_information/senators_cfm.cfm" target="_blank">Senators</a>. We might also want to ask, why is it OK for businesses to trick consumers? Why aren&#8217;t consumers treated with respect by our businesses and our government?
+  Why aren't clear notices a national priority? I think we should ask the DMA's <a href="mailto:privacy@the-dma.org" target="_blank">Consumer, Ethics, and Privacy </a>department, or IAB President <a href="mailto:Randall@iab.net" target="_blank">Randall Rothenberg</a>. More importantly, we should ask that question to our <a href="https://writerep.house.gov/writerep/welcome.shtml" target="_blank">Representatives</a> and <a href="https://www.senate.gov/general/contact_information/senators_cfm.cfm" target="_blank">Senators</a>. We might also want to ask, why is it OK for businesses to trick consumers? Why aren't consumers treated with respect by our businesses and our government?
 </p>
 
 <div id="_mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">
@@ -46,7 +46,7 @@ tags:
   </p>
   
   <p class="MsoNormal" style="margin: 0in 0in 6pt 0.5in; text-indent: -0.5in;">
-    <span>Siegel, Alan.<em><span> “</span></em><span>Let&#8217;s Simplify Legal Jargon!”</span><em>.</em> TED Conferences, LLC, 2010. <</span><a href="http://www.ted.com/talks/alan_siegel_let_s_simplify_legal_jargon.html?awesm=on.ted.com_8DVD&utm_medium=on.ted.com-twitter&utm_source=direct-on.ted.com&utm_content=site-basic/" target="_blank">http://www.ted.com/talks/alan_<span class="hlite">siegel</span>_let_s_simplify_legal_jargon.html</a>>.
+    <span>Siegel, Alan.<em><span> “</span></em><span>Let's Simplify Legal Jargon!”</span><em>.</em> TED Conferences, LLC, 2010. <</span><a href="http://www.ted.com/talks/alan_siegel_let_s_simplify_legal_jargon.html?awesm=on.ted.com_8DVD&utm_medium=on.ted.com-twitter&utm_source=direct-on.ted.com&utm_content=site-basic/" target="_blank">http://www.ted.com/talks/alan_<span class="hlite">siegel</span>_let_s_simplify_legal_jargon.html</a>>.
   </p>
   
   <p>
@@ -62,6 +62,6 @@ tags:
   </p>
   
   <p class="MsoNormal" style="margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: .5in; text-indent: -.5in;">
-    <span style="mso-bidi-font-family: Calibri;">Siegel, Alan.<em><span style="mso-bidi-font-weight: bold;"> “</span></em><span style="mso-bidi-font-weight: bold; mso-bidi-font-style: italic;">Let&#8217;s Simplify Legal Jargon!”</span><em>.</em> TED Conferences, LLC, 2010. <</span><a href="http://www.ted.com/talks/alan_siegel_let_s_simplify_legal_jargon.html?awesm=on.ted.com_8DVD&utm_medium=on.ted.com-twitter&utm_source=direct-on.ted.com&utm_content=site-basic/" target="_blank">http://www.ted.com/talks/alan_<span class="hlite">siegel</span>_let_s_simplify_legal_jargon.html</a>>.
+    <span style="mso-bidi-font-family: Calibri;">Siegel, Alan.<em><span style="mso-bidi-font-weight: bold;"> “</span></em><span style="mso-bidi-font-weight: bold; mso-bidi-font-style: italic;">Let's Simplify Legal Jargon!”</span><em>.</em> TED Conferences, LLC, 2010. <</span><a href="http://www.ted.com/talks/alan_siegel_let_s_simplify_legal_jargon.html?awesm=on.ted.com_8DVD&utm_medium=on.ted.com-twitter&utm_source=direct-on.ted.com&utm_content=site-basic/" target="_blank">http://www.ted.com/talks/alan_<span class="hlite">siegel</span>_let_s_simplify_legal_jargon.html</a>>.
   </p>
 </div>

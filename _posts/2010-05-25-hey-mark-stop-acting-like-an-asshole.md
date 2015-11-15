@@ -19,15 +19,15 @@ tags:
 <!--more-->
 
 <p style="margin-bottom: 0in;">
-  Consider Mr. Zuckerberg&#8217;s <a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/05/23/AR2010052303828.html" target="_blank">column yesterday in the Washington Post.</a> Likely intended to be an apology and statement of how wrongs will be corrected, the column comes off as a disingenuous piece of PR double speak. For example, of the five principles presented that supposedly direct Facebook&#8217;s actions, two are blatantly not true:
+  Consider Mr. Zuckerberg's <a href="http://www.washingtonpost.com/wp-dyn/content/article/2010/05/23/AR2010052303828.html" target="_blank">column yesterday in the Washington Post.</a> Likely intended to be an apology and statement of how wrongs will be corrected, the column comes off as a disingenuous piece of PR double speak. For example, of the five principles presented that supposedly direct Facebook's actions, two are blatantly not true:
 </p>
 
   * <p style="margin-bottom: 0in;">
-      &#8220;You have control over how your information is shared.&#8221; &#8211; If this were truly a guiding principle then how did we end up in this mess? Shouldn&#8217;t you not have to write a column in a major newspaper addressing the unwelcomed changes in how the information of users is shared?
+      "You have control over how your information is shared." &#8211; If this were truly a guiding principle then how did we end up in this mess? Shouldn't you not have to write a column in a major newspaper addressing the unwelcomed changes in how the information of users is shared?
     </p>
 
   * <p style="margin-bottom: 0in;">
-      &#8220;We do not give advertisers access to your personal information.&#8221; &#8211; As the Wall Street Journal <a href="http://online.wsj.com/article/SB10001424052748704513104575256701215465596.html" target="_blank">recently reported</a>, Facebook, as well as a number of other social networking sites, have been sharing personal information with advertisers. While it appears that this sharing may have been due to some oversight in coding, it is hard to give Facebook the benefit of the doubt considering that the company had been contacted about this issue nine months before the Journal article.
+      "We do not give advertisers access to your personal information." &#8211; As the Wall Street Journal <a href="http://online.wsj.com/article/SB10001424052748704513104575256701215465596.html" target="_blank">recently reported</a>, Facebook, as well as a number of other social networking sites, have been sharing personal information with advertisers. While it appears that this sharing may have been due to some oversight in coding, it is hard to give Facebook the benefit of the doubt considering that the company had been contacted about this issue nine months before the Journal article.
     </p>
 
 <p style="margin-bottom: 0in;">
@@ -35,7 +35,7 @@ tags:
 </p>
 
 <p style="margin-bottom: 0in;">
-  I admit that a lot of these observations are subjective; one person&#8217;s arrogant ass is another&#8217;s strong leader. And I do not think for a moment that this post is not petty. In fact, that&#8217;s the point. My perception of the Facebook brass is impacting my reactions and opinions in this matter; at times I react more to the insults and complete lack of respect I perceive than the actual matters of privacy and choice. I doubt I am the only one, and I really wish that Facebook would smarten up and improve its PR department.
+  I admit that a lot of these observations are subjective; one person's arrogant ass is another's strong leader. And I do not think for a moment that this post is not petty. In fact, that's the point. My perception of the Facebook brass is impacting my reactions and opinions in this matter; at times I react more to the insults and complete lack of respect I perceive than the actual matters of privacy and choice. I doubt I am the only one, and I really wish that Facebook would smarten up and improve its PR department.
 </p>
 
 <p style="margin-bottom: 0in;">

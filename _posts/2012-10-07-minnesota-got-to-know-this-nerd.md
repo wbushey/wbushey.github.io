@@ -6,7 +6,7 @@ permalink: /2012/10/minnesota-got-to-know-this-nerd/
 categories:
   - Bill
 ---
-Earlier this week I got the chance to do a little Q & A with Minnesota&#8217;s version of TechCrunch, [Tech.mn][1]. Here&#8217;s an excerpt:
+Earlier this week I got the chance to do a little Q & A with Minnesota's version of TechCrunch, [Tech.mn][1]. Here's an excerpt:
 
 > **What excites you most about where technology is headed?**
 > 

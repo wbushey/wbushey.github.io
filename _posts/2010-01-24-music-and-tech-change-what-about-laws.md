@@ -11,7 +11,7 @@ tags:
   - Intellectual Property
   - Jammie Thomas-Rasset
 ---
-Last semester the students in the Humphrey Institute&#8217;s Science and State class were assigned to write a pseudo letter to the editor on a current issue in science or technology from the perspective of a sitting policy maker. I choose to put on my Senator cap and write about the ridiculousness of damages being awarded in piracy trails, with a particular emphasis on the trial of Minnesota resident Jammie Thomas-Rasset. Given the recent activity that has occurred in that case (<a href="http://arstechnica.com/tech-policy/news/2010/01/judge-slashes-monstrous-jammie-thomas-p2p-award-by-35x.ars?utm_source=rss&utm_medium=rss&utm_campaign=rss" target="_blank">Ars coverage here</a>,) I figured now is as good a time as any to throw it up on the Internet.
+Last semester the students in the Humphrey Institute's Science and State class were assigned to write a pseudo letter to the editor on a current issue in science or technology from the perspective of a sitting policy maker. I choose to put on my Senator cap and write about the ridiculousness of damages being awarded in piracy trails, with a particular emphasis on the trial of Minnesota resident Jammie Thomas-Rasset. Given the recent activity that has occurred in that case (<a href="http://arstechnica.com/tech-policy/news/2010/01/judge-slashes-monstrous-jammie-thomas-p2p-award-by-35x.ars?utm_source=rss&utm_medium=rss&utm_campaign=rss" target="_blank">Ars coverage here</a>,) I figured now is as good a time as any to throw it up on the Internet.
 
 <div>
   <!--more-->
@@ -27,7 +27,7 @@ Last semester the students in the Humphrey Institute&#8217;s Science and State c
 
 <div>
   <p>
-    OK, that last part didn&#8217;t happen. It would have been ridiculous for the store owner to charge me such an ridiculous amount for stealing an item that was only worth a dollar. Unfortunately, this is exactly what has happened to Jammie Thomas Rasset, of Brainerd. Rasset has been ordered by a jury to pay nearly two million dollars after being found guilty of downloading and sharing twenty four songs. This award of $80,000 per song is allowed by the Copyright Act, the rational of which is the product of a different era and is in desperate need for an update.
+    OK, that last part didn't happen. It would have been ridiculous for the store owner to charge me such an ridiculous amount for stealing an item that was only worth a dollar. Unfortunately, this is exactly what has happened to Jammie Thomas Rasset, of Brainerd. Rasset has been ordered by a jury to pay nearly two million dollars after being found guilty of downloading and sharing twenty four songs. This award of $80,000 per song is allowed by the Copyright Act, the rational of which is the product of a different era and is in desperate need for an update.
   </p>
   
   <p>
@@ -39,6 +39,6 @@ Last semester the students in the Humphrey Institute&#8217;s Science and State c
   </p>
   
   <p>
-    The eighth amendment protects citizens from cruel and unusual punishment in criminal cases. While the eighth amendment does not apply to civil law, its spirit should apply to all laws. Current copyright law does not consider this spirit. It is for this reason that I am supporting Representative Doe&#8217;s modification to the Copyright Act, which will reduce copyright penalties for peer-to-peer users to a maximum of $100 per song. To my colleagues in the Senate and the House: I ask that you be leaders in copyright reform and support this modification so that the people who you represent are not subject to excessive penalties. And to the people of Minnesota, and the entire nation, I ask that you echo my call for copyright reform. Technology has changed our economy and our country, it is about time our legal system changes too.
+    The eighth amendment protects citizens from cruel and unusual punishment in criminal cases. While the eighth amendment does not apply to civil law, its spirit should apply to all laws. Current copyright law does not consider this spirit. It is for this reason that I am supporting Representative Doe's modification to the Copyright Act, which will reduce copyright penalties for peer-to-peer users to a maximum of $100 per song. To my colleagues in the Senate and the House: I ask that you be leaders in copyright reform and support this modification so that the people who you represent are not subject to excessive penalties. And to the people of Minnesota, and the entire nation, I ask that you echo my call for copyright reform. Technology has changed our economy and our country, it is about time our legal system changes too.
   </p>
 </div>

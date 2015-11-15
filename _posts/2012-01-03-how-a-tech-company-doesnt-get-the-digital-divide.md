@@ -8,11 +8,11 @@ categories:
 tags:
   - Digital Divide
 ---
-A few weeks ago IBM released its [5 in 5 predictions][1] &#8211; five technology trends that the company&#8217;s top scientists and executives predict will transform our lives within five years. Below is the video for prediction number 4 by Paul Bloom: [The digital divide will cease to exist][2].
+A few weeks ago IBM released its [5 in 5 predictions][1] &#8211; five technology trends that the company's top scientists and executives predict will transform our lives within five years. Below is the video for prediction number 4 by Paul Bloom: [The digital divide will cease to exist][2].
 
 
 
-Being a tech and policy nerd, this one caught my attention. What is interesting about this prediction is the list of obstacles left out. Bloom is right to predict that the technology will exist in five years to eliminate the digital divide and do all sorts of cool things. That&#8217;s because the technology already exists.
+Being a tech and policy nerd, this one caught my attention. What is interesting about this prediction is the list of obstacles left out. Bloom is right to predict that the technology will exist in five years to eliminate the digital divide and do all sorts of cool things. That's because the technology already exists.
 
 Mr. Bloom fails to discuss what will change about the other obstacles of the digital divide &#8211; economics, politics, education &#8211; and how those changes will lead to increased access and use of Internet technology. These obstacles are very difficult. They involve competing demands for limited resources, tumultuous histories, complicated interests, and resource intensive practices. Technical innovation can help in addressing these obstacles. But in the end these obstacles are the result of human systems, not technical ignorance.
 

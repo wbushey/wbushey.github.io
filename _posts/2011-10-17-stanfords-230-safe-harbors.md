@@ -6,7 +6,7 @@ permalink: /2011/10/stanfords-230-safe-harbors/
 categories:
   - Friendly ToS
 ---
-Seth Woodworth and I have started a site to help consumers understand the legalese of websites: [FriendlyToS][1]. Over the coming weeks and months, we&#8217;ll be coding scrappers and differs to help users identify changes in terms of services when they happen and figure out what those dense blocks of text mean. Along with that, we will also be writing blog posts covering online legalese issues and news. And just like with my Humphrey blog posts, I&#8217;m going to put up a summary here when I make a FriendlyToS post. With that said, here is my first FriendlyToS post:
+Seth Woodworth and I have started a site to help consumers understand the legalese of websites: [FriendlyToS][1]. Over the coming weeks and months, we'll be coding scrappers and differs to help users identify changes in terms of services when they happen and figure out what those dense blocks of text mean. Along with that, we will also be writing blog posts covering online legalese issues and news. And just like with my Humphrey blog posts, I'm going to put up a summary here when I make a FriendlyToS post. With that said, here is my first FriendlyToS post:
 
 * * *
 

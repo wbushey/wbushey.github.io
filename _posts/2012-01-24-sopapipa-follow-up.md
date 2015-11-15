@@ -9,7 +9,7 @@ tags:
   - Apple
   - Intellectual Property
 ---
-If you happened to visit my blog on the 18th you know that I participated in the SOPA/PIPA black out. I was firmly on the opposition side because those bills are are simply bad policy. They are vague, burdensome of distributors, cruel in punishment, and lack judicial oversight. In fact, had they passed, I&#8217;m sure the resulting law would have been struck down in a fairly quick court challenge of constitutionality.
+If you happened to visit my blog on the 18th you know that I participated in the SOPA/PIPA black out. I was firmly on the opposition side because those bills are are simply bad policy. They are vague, burdensome of distributors, cruel in punishment, and lack judicial oversight. In fact, had they passed, I'm sure the resulting law would have been struck down in a fairly quick court challenge of constitutionality.
 
 As a 25 year old that is socialized to Internet culture, there are a few generational/cultural divides that I observed during the public debate on SOPA/PIPA. These divides have come up in the past, they will come up again, and understanding them will be key to developing online intellectual property policy:
 
