@@ -13,6 +13,8 @@ trends that the company's top scientists and executives predict will transform
 our lives within five years. Below is the video for prediction number 4 by Paul
 Bloom: [The digital divide will cease to exist][2].
 
+<object width="576" height="324" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowScriptAccess" value="always" /><param name="src" value="http://www.youtube.com/v/FaBckwhI1S0&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="576" height="324" src="http://www.youtube.com/v/FaBckwhI1S0&amp;rel=0&amp;hl=en_US&amp;feature=player_embedded&amp;version=3" allowscriptaccess="always" allowfullscreen="allowfullscreen" /></object>
+
 Being a tech and policy nerd, this one caught my attention. What is interesting
 about this prediction is the list of obstacles left out. Bloom is right to
 predict that the technology will exist in five years to eliminate the digital
