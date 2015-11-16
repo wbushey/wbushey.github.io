@@ -1,5 +1,5 @@
 ---
-title: 'Minnebar 8 Presentation &#8211; Civic Hacking and Open Data'
+title: 'Minnebar 8 Presentation - Civic Hacking and Open Data'
 author: bill
 layout: post
 permalink: /2013/05/minnebar-8-presentation-civic-hacking-and-open-data/

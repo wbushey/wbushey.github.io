@@ -1,5 +1,5 @@
 ---
-title: 'E3 &#8211; Initial Reactions'
+title: 'E3 - Initial Reactions'
 author: bill
 excerpt: "I recently attended the University of Minnesota's Energy, Economic and Environmental conference, and have written a post about my initial reactions."
 layout: post

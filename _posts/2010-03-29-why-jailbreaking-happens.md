@@ -39,7 +39,7 @@ tags:
 </p>
 
 <p class="MsoNormal">
-  The attack on autonomy posed by Apple's licensed market is greater than just limiting the number of programs available, however. A deeper, and more troubling, issue is the fact that Apple has taken over the role of decider of what a good product is. As a consumer, deciding that a product meets my needs and desires is my most fundamental power and my most basic task in an economy. Normally I would exercise this power on an unfiltered and large pool of products. In the case of Apple's app store, however, somebody else (the licensors) has already done some of that deciding for me. Some might argue that this is convenient &#8211; Apple has already filtered out the sub-par apps and left the consumer with only the gems to choose from. Others, I among them, counter with this argument: is Apple's definition of sub-par the same as mine?
+  The attack on autonomy posed by Apple's licensed market is greater than just limiting the number of programs available, however. A deeper, and more troubling, issue is the fact that Apple has taken over the role of decider of what a good product is. As a consumer, deciding that a product meets my needs and desires is my most fundamental power and my most basic task in an economy. Normally I would exercise this power on an unfiltered and large pool of products. In the case of Apple's app store, however, somebody else (the licensors) has already done some of that deciding for me. Some might argue that this is convenient - Apple has already filtered out the sub-par apps and left the consumer with only the gems to choose from. Others, I among them, counter with this argument: is Apple's definition of sub-par the same as mine?
 </p>
 
 <p class="MsoNormal">

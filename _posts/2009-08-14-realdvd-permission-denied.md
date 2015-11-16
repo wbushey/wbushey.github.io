@@ -1,5 +1,5 @@
 ---
-title: RealDVD – Permission Denied
+title: RealDVD - Permission Denied
 author: bill
 excerpt: "I first noticed this story at Ars Technica: RealNetworks decided it was going to produce and sell a product called RealDVD that would allow a user to easily rip DVDs to his or her hard drive. Along with RealDVD, the company also planned on selling some hardware that would include RealDVD and would serve as a household media server. Sounds cool right? Well the MPAA took issue with the products, stating that they violate the DMCA's anti-circumvention rules, and Judge Patel granted a temporary injunction to prevent the sale of the products."
 layout: post
@@ -21,7 +21,7 @@ tags:
 <hr size="2" />
 
 <p style="margin-bottom: 0in;">
-  <strong>RealDVD &#8211; Permission Denied</strong>
+  <strong>RealDVD - Permission Denied</strong>
 </p>
 
 <p style="margin-bottom: 0in; font-weight: normal;">

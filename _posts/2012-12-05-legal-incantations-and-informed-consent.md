@@ -39,7 +39,7 @@ Cory Doctorow
 > to release me from all obligations and waivers arising from any and all
 > NON-NEGOTIATED agreements, licenses, terms-of-service, shrinkwrap, clickwrap,
 > browsewrap, confidentiality, non-disclosure, non-compete and acceptable use
-> policies (“BOGUS AGREEMENTS”) that I have entered into with your employer,
+> policies ("BOGUS AGREEMENTS") that I have entered into with your employer,
 > its partners, licensors, agents and assigns, in perpetuity, without prejudice
 > to my ongoing rights and privileges. You further represent that you have the
 > authority to release me from any BOGUS AGREEMENTS on behalf of your employer.

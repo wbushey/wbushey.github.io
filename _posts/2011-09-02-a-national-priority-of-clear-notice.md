@@ -11,7 +11,7 @@ tags:
   - Privacy
 ---
 > <p class="MsoQuote">
->   “… there is no way we should do business with companies that have agreements with stealth provisions and that aren't intelligible. So how are we going to change the world? Make clarity, transparency, and simplicity a national priority.”
+>   "… there is no way we should do business with companies that have agreements with stealth provisions and that aren't intelligible. So how are we going to change the world? Make clarity, transparency, and simplicity a national priority."
 > </p>
 
 <p class="MsoQuote">
@@ -42,11 +42,11 @@ tags:
   </p>
   
   <p class="MsoQuote">
-    “… there is no way we should do business with companies that have agreements with stealth provisions and that aren't intelligible. So how are we going to change the world? Make clarity, transparency, and simplicity a national priority.” – Alan Siegel (Siegel, 2010)
+    "… there is no way we should do business with companies that have agreements with stealth provisions and that aren't intelligible. So how are we going to change the world? Make clarity, transparency, and simplicity a national priority." – Alan Siegel (Siegel, 2010)
   </p>
   
   <p class="MsoNormal" style="margin: 0in 0in 6pt 0.5in; text-indent: -0.5in;">
-    <span>Siegel, Alan.<em><span> “</span></em><span>Let's Simplify Legal Jargon!”</span><em>.</em> TED Conferences, LLC, 2010. <</span><a href="http://www.ted.com/talks/alan_siegel_let_s_simplify_legal_jargon.html?awesm=on.ted.com_8DVD&utm_medium=on.ted.com-twitter&utm_source=direct-on.ted.com&utm_content=site-basic/" target="_blank">http://www.ted.com/talks/alan_<span class="hlite">siegel</span>_let_s_simplify_legal_jargon.html</a>>.
+    <span>Siegel, Alan.<em><span> "</span></em><span>Let's Simplify Legal Jargon!"</span><em>.</em> TED Conferences, LLC, 2010. <</span><a href="http://www.ted.com/talks/alan_siegel_let_s_simplify_legal_jargon.html?awesm=on.ted.com_8DVD&utm_medium=on.ted.com-twitter&utm_source=direct-on.ted.com&utm_content=site-basic/" target="_blank">http://www.ted.com/talks/alan_<span class="hlite">siegel</span>_let_s_simplify_legal_jargon.html</a>>.
   </p>
   
   <p>
@@ -54,7 +54,7 @@ tags:
   </p>
   
   <p class="MsoQuote">
-    “… there is no way we should do business with companies that have agreements with stealth provisions and that aren't intelligible. So how are we going to change the world? Make clarity, transparency, and simplicity a national priority.” – Alan Siegel (Siegel, 2010)
+    "… there is no way we should do business with companies that have agreements with stealth provisions and that aren't intelligible. So how are we going to change the world? Make clarity, transparency, and simplicity a national priority." – Alan Siegel (Siegel, 2010)
   </p>
   
   <p>
@@ -62,6 +62,6 @@ tags:
   </p>
   
   <p class="MsoNormal" style="margin-top: 0in; margin-right: 0in; margin-bottom: 6.0pt; margin-left: .5in; text-indent: -.5in;">
-    <span style="mso-bidi-font-family: Calibri;">Siegel, Alan.<em><span style="mso-bidi-font-weight: bold;"> “</span></em><span style="mso-bidi-font-weight: bold; mso-bidi-font-style: italic;">Let's Simplify Legal Jargon!”</span><em>.</em> TED Conferences, LLC, 2010. <</span><a href="http://www.ted.com/talks/alan_siegel_let_s_simplify_legal_jargon.html?awesm=on.ted.com_8DVD&utm_medium=on.ted.com-twitter&utm_source=direct-on.ted.com&utm_content=site-basic/" target="_blank">http://www.ted.com/talks/alan_<span class="hlite">siegel</span>_let_s_simplify_legal_jargon.html</a>>.
+    <span style="mso-bidi-font-family: Calibri;">Siegel, Alan.<em><span style="mso-bidi-font-weight: bold;"> "</span></em><span style="mso-bidi-font-weight: bold; mso-bidi-font-style: italic;">Let's Simplify Legal Jargon!"</span><em>.</em> TED Conferences, LLC, 2010. <</span><a href="http://www.ted.com/talks/alan_siegel_let_s_simplify_legal_jargon.html?awesm=on.ted.com_8DVD&utm_medium=on.ted.com-twitter&utm_source=direct-on.ted.com&utm_content=site-basic/" target="_blank">http://www.ted.com/talks/alan_<span class="hlite">siegel</span>_let_s_simplify_legal_jargon.html</a>>.
   </p>
 </div>

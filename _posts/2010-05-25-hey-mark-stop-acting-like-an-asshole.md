@@ -23,11 +23,11 @@ tags:
 </p>
 
   * <p style="margin-bottom: 0in;">
-      "You have control over how your information is shared." &#8211; If this were truly a guiding principle then how did we end up in this mess? Shouldn't you not have to write a column in a major newspaper addressing the unwelcomed changes in how the information of users is shared?
+      "You have control over how your information is shared." - If this were truly a guiding principle then how did we end up in this mess? Shouldn't you not have to write a column in a major newspaper addressing the unwelcomed changes in how the information of users is shared?
     </p>
 
   * <p style="margin-bottom: 0in;">
-      "We do not give advertisers access to your personal information." &#8211; As the Wall Street Journal <a href="http://online.wsj.com/article/SB10001424052748704513104575256701215465596.html" target="_blank">recently reported</a>, Facebook, as well as a number of other social networking sites, have been sharing personal information with advertisers. While it appears that this sharing may have been due to some oversight in coding, it is hard to give Facebook the benefit of the doubt considering that the company had been contacted about this issue nine months before the Journal article.
+      "We do not give advertisers access to your personal information." - As the Wall Street Journal <a href="http://online.wsj.com/article/SB10001424052748704513104575256701215465596.html" target="_blank">recently reported</a>, Facebook, as well as a number of other social networking sites, have been sharing personal information with advertisers. While it appears that this sharing may have been due to some oversight in coding, it is hard to give Facebook the benefit of the doubt considering that the company had been contacted about this issue nine months before the Journal article.
     </p>
 
 <p style="margin-bottom: 0in;">
