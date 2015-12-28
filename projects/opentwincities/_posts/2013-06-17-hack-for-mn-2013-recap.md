@@ -3,8 +3,8 @@ title: Hack for MN 2013 Recap
 author: bill
 layout: post
 permalink: /2013/06/hack-for-mn-2013-recap/
-categories:
-  - Open Twin Cities
+tags:
+ - hack for mn
 ---
 > Hack for MN 2013 was a huge success, and a fun weekend (see some of the fun 
 > in our new [Flickr Group](http://www.flickr.com/search/groups/?m=pool&w=2264766%40N22&q=hackformn))! 
