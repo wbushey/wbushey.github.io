@@ -6,7 +6,6 @@ permalink: /2009/06/the-first-month/
 tags:
   - Berkman Center
   - EFF
-project: TermsWatch
 ---
 It's the end of June, which means it is the end of my first month of working on
 TermsWatch. So what has happened in this first month?

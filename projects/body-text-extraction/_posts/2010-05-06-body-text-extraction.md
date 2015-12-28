@@ -7,7 +7,6 @@ tags:
   - Berkman Center
   - BTE
   - Python
-project: Body Text Extraction
 ---
 A while back, when I was a Berkman intern, fellow Berktern Brian Young and I
 spent an afternoon modifying a Python script called BTE (Body Text Extraction).

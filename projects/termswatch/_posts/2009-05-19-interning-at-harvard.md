@@ -5,7 +5,6 @@ layout: post
 permalink: /2009/05/interning-at-harvard/
 tags:
   - Berkman Center
-project: TermsWatch
 ---
 Yup, via a chain of events I have landed an internship at
 [The Berkman Center][1], a center within the Harvard Law School. Starting June
