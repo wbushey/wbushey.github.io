@@ -3,10 +3,7 @@ title: Description of TermsWatch
 author: bill
 layout: post
 permalink: /2009/05/description/
-categories:
-  - Projects
-tags:
-  - TermsWatch
+project: TermsWatch
 ---
 TermsWatch is an attempt to combine the power of knowledge and software to
 provide a tool that end users can use while reading and executing the Terms of

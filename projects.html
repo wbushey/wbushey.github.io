@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+
+<div class="container-fluid index">
+  <div class="row index all-posts">
+  <h1 class="header">Projects</h1>
+  {% assign finished_projects = "" | split: "|" %}
+  {% for post in site.categories.projects %}
+
+    {% comment %} Find the project category {% endcomment %}
+    {% assign project = false %}
+    {% for category in post.categories %}
+      {% unless project == false %} {% break %} {% endunless %}
+      {% if category == 'projects' %} {% continue %} {% endif %}
+      {% for a_project in site.project_names %}
+        {% if a_project[0] == category %}
+          {% assign project = a_project %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+
+    {% comment %} Now, create a block with all posts for that project {% endcomment %}
+    {% unless finished_projects contains project[0] %}
+      <div class="col-md-12 content-panel articles">
+        <h2>{{project[1]}}</h2>
+        <ul>
+        {% assign project_key = project[0]%}
+        {% for project_post in site.categories[project_key]%}
+          <li><a href="{{project_post.url}}">{{project_post.title}}</a></li>
+        {% endfor %}
+        </ul>
+      </div>
+      {% assign finished_projects = finished_projects | push: project[0]%}
+    {% endunless %}
+  {% endfor %}
+  </div>
+</div>

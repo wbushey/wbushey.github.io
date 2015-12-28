@@ -3,13 +3,11 @@ title: Body Text Extraction
 author: bill
 layout: post
 permalink: /2010/05/body-text-extraction/
-categories:
-  - Projects
 tags:
   - Berkman Center
-  - Body Text Extraction
   - BTE
   - Python
+project: Body Text Extraction
 ---
 A while back, when I was a Berkman intern, fellow Berktern Brian Young and I
 spent an afternoon modifying a Python script called BTE (Body Text Extraction).
