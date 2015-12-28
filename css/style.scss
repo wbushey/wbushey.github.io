@@ -753,25 +753,10 @@ ul {
 .footer {
 	width: 100%;
 	margin-left: 0%;
-
-	.fa-heart {
-		color: $red;
-	}
-
-	@media (min-width: $screen-sm-min) {
-		width: 90%;
-		margin-left: 5%;
-	}
-
-	@media (min-width: $screen-md-min) {
-		width: 80%;
-		margin-left: 10%;
-	}
-
-	@media (min-width: $screen-lg-min) {
-		width: 70%;
-		margin-left: 15%;
-	}
+  margin-top: 20px;
+  padding-left: 20px;
+  padding-right: 10px;
+  text-align: center;
 
 	div {
 		color: $light-medium;
