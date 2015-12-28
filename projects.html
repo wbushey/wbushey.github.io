@@ -29,7 +29,10 @@ layout: default
         <ul>
         {% assign project_key = project[0]%}
         {% for project_post in site.categories[project_key]%}
-          <li><a href="{{project_post.url}}">{{project_post.title}}</a></li>
+          <li>
+            <a href="{{project_post.url}}">{{project_post.title}}</a>
+            <p><small class="hidden-xs">{{ project_post.date | date: "%B %-d, %Y" }}</small></p>
+          </li>
         {% endfor %}
         </ul>
       </div>
