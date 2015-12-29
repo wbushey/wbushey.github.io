@@ -28,5 +28,10 @@ world's food supply.
 
 The full post can be found [here][2].
 
+### 2015-12-29 Update
+
+The Policy Catalyst Blog is no longer on the Internet. The above link to the
+blog post has been updated to the Internet Archive.
+
  [1]: http://www.earth-policy.org/
- [2]: http://blog.lib.umn.edu/cstpp/policycatalyst/2009/11/lester_brown_asks_how_will_we.php
+ [2]: http://web.archive.org/web/20150622040015/http://blog.lib.umn.edu/cstpp/policycatalyst/2009/11/lester_brown_asks_how_will_we.php

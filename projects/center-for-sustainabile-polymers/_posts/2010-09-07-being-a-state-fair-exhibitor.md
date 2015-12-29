@@ -4,8 +4,6 @@ author: Bill
 layout: post
 redirect_from:
   - /2010/09/being-a-state-fair-exhibitor/
-categories:
-  - center-for-sustainable-polymers
 tags:
   - State Fair
 ---
@@ -21,4 +19,11 @@ Fair exhibit.
 > With our success in mind, I would like to reflect on my involvement and
 > consider what I learned:
 
-Full post at the [Policy Catalyst](http://blog.lib.umn.edu/cstpp/policycatalyst/2010/09/being_a_state_fair_exhibitor.php).
+Full post at the [Policy Catalyst][1].
+
+### 2015-12-29 Update
+
+The Policy Catalyst Blog is no longer on the Internet. The above link to the
+blog post has been updated to the Internet Archive.
+
+ [1]: http://web.archive.org/web/20150622040800/http://blog.lib.umn.edu/cstpp/policycatalyst/2010/09/being_a_state_fair_exhibitor.php

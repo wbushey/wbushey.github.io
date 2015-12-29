@@ -5,8 +5,6 @@ layout: post
 redirect_from:
   - /index.php/humphrey-posts/44-center-for-sustainable-polymers/61-e3-initial-reactions
   - /2009/11/e3-initial-reactions/
-categories:
-  - center-for-sustainable-polymers
 tags:
   - E3
 ---
@@ -21,4 +19,9 @@ Environmental conference, and have written a post about my initial reactions.
 
 Full post can be found at the [Policy Catalyst][1].
 
- [1]: http://blog.lib.umn.edu/cstpp/policycatalyst/2009/11/e3_-_initial_reactions.php
+### 2015-12-29 Update
+
+The Policy Catalyst Blog is no longer on the Internet. The above link to the
+blog post has been updated to the Internet Archive.
+
+ [1]: http://web.archive.org/web/20150622040811/http://blog.lib.umn.edu/cstpp/policycatalyst/2009/11/e3_-_initial_reactions.php

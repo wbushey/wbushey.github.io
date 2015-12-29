@@ -4,8 +4,6 @@ author: Bill
 layout: post
 redirect_from:
   - /2011/03/pepsis-new-bottle-highlights-need-for-recycling-policies/
-categories:
-  - center-for-sustainable-polymers
 tags:
   - bio-plastics
   - environmental economics
@@ -21,4 +19,11 @@ bottles.
 > manufacturers? My question to policies makers is, what can be done to make it
 > cheaper for manufacturers to use recycled materials?
 
-[Read the whole post at the Policy Catalyst](http://blog.lib.umn.edu/cstpp/policycatalyst/2011/03/pepsis_new_bottle_highlights_n.php).
+[Read the whole post at the Policy Catalyst][1].
+
+### 2015-12-29 Update
+
+The Policy Catalyst Blog is no longer on the Internet. The above link to the
+blog post has been updated to the Internet Archive.
+
+ [1]: http://web.archive.org/web/20150622040529/http://blog.lib.umn.edu/cstpp/policycatalyst/2011/03/pepsis_new_bottle_highlights_n.php

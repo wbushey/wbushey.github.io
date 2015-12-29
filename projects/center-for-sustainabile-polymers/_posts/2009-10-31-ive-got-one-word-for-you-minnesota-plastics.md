@@ -8,8 +8,6 @@ layout: post
 redirect_from:
   - /index.php/humphrey-posts/44-center-for-sustainable-polymers/58-ive-got-one-word-for-you-minnesota-plastics
   - /2009/10/ive-got-one-word-for-you-minnesota-plastics/
-categories:
-  - center-for-sustainable-polymers
 tags:
   - Plastics Industry
   - Regional Economy
@@ -36,8 +34,14 @@ all about.
 
 Read the full post at [Policy Catalyst][5].
 
+### 2015-12-29 Update
+
+The Policy Catalyst Blog is no longer on the Internet. The above link to the
+blog post has been updated to the Internet Archive. The content of the post
+has also been reproduced below.
+
  [1]: http://www.hhh.umn.edu/centers/stpp/index.php
  [2]: http://www.hhh.umn.edu/index.php
  [3]: http://www.chem.umn.edu/csp/
  [4]: http://www.startribune.com/lifestyle/59033887.html?elr=KArks8ch3EiaiUech3EiaiUiD3aPc:_Yyc:aUHDYaGEP7eyckcUr
- [5]: http://blog.lib.umn.edu/cstpp/policycatalyst/2009/10/ive_got_one_word_for_you_minne.php
+ [5]: http://web.archive.org/web/20150622040817/http://blog.lib.umn.edu/cstpp/policycatalyst/2009/10/ive_got_one_word_for_you_minne.php

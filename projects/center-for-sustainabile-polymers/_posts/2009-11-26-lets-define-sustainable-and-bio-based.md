@@ -10,8 +10,6 @@ layout: post
 redirect_from:
   - /index.php/humphrey-posts/44-center-for-sustainable-polymers/62-lets-define-sustainable-and-bio-based
   - /2009/11/lets-define-sustainable-and-bio-based/
-categories:
-  - center-for-sustainable-polymers
 tags:
   - Advertising
   - Bio-based
@@ -27,4 +25,9 @@ and "bio-based."
 
 Full post can be found at the [Policy Catalyst][1].
 
- [1]: http://blog.lib.umn.edu/cstpp/policycatalyst/2009/11/lets_define_sustainable_and_bio-based.php
+### 2015-12-29 Update
+
+The Policy Catalyst Blog is no longer on the Internet. The above link to the
+blog post has been updated to the Internet Archive.
+
+ [1]: http://web.archive.org/web/20150622040805/http://blog.lib.umn.edu/cstpp/policycatalyst/2009/11/lets_define_sustainable_and_bio-based.php
