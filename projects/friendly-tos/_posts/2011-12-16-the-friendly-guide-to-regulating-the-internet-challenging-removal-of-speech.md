@@ -2,9 +2,8 @@
 title: 'The Friendly Guide to Regulating the Internet: Challenging Removal of Speech'
 author: bill
 layout: post
-permalink: /2011/12/the-friendly-guide-to-regulating-the-internet-challenging-removal-of-speech/
-categories:
-  - Friendly ToS
+redirect_from:
+  - /2011/12/the-friendly-guide-to-regulating-the-internet-challenging-removal-of-speech/
 ---
 Part three of The Friendly Guide to Internet Regulation is out.
 

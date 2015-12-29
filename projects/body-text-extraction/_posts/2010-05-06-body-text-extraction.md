@@ -2,7 +2,9 @@
 title: Body Text Extraction
 author: bill
 layout: post
-permalink: /2010/05/body-text-extraction/
+redirect_from:
+  - /index.php/projectslink/38-past-projects/67-body-text-extraction
+  - /2010/05/body-text-extraction/
 tags:
   - Berkman Center
   - BTE

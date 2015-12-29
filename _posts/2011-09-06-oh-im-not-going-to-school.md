@@ -2,9 +2,10 @@
 title: "Oh, I'm Not Going to School"
 author: bill
 layout: post
-permalink: /2011/09/oh-im-not-going-to-school/
+redirect_from:
+  - /2011/09/oh-im-not-going-to-school/
 categories:
-  - Bill
+  - bill
 tags:
   - Life
   - School

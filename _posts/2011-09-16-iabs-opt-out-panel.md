@@ -10,9 +10,10 @@ excerpt: |
   is pretty simple to use. Unfortunately, it is also pretty useless since it
   relies on cookies, which privacy concerned users are probably blocking.
 layout: post
-permalink: /2011/09/iabs-opt-out-panel/
+redirect_from:
+  - /2011/09/iabs-opt-out-panel/
 categories:
-  - Tech Policy
+  - tech-policy
 tags:
   - Advertising
   - Consumer Rights

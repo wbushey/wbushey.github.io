@@ -2,9 +2,11 @@
 title: If All The World Is A Stage Then I Have Front Row Seats
 author: bill
 layout: post
-permalink: /2009/07/if-all-the-world-is-a-stage-then-i-have-front-row-seats/
+redirect_from:
+  - /index.php/component/content/article/40-random-thoughts/55-if-all-the-world-is-a-stage-then-i-have-front-row-seats
+  - /2009/07/if-all-the-world-is-a-stage-then-i-have-front-row-seats/
 categories:
-  - Bill
+  - bill
 tags:
   - Berkman Center
   - Perspective

@@ -2,7 +2,8 @@
 title: Interning at Harvard
 author: bill
 layout: post
-permalink: /2009/05/interning-at-harvard/
+redirect_from:
+  - /2009/05/interning-at-harvard/
 tags:
   - Berkman Center
 ---

@@ -2,9 +2,10 @@
 title: Data centers aren't energy efficent? Where did that come from?
 author: bill
 layout: post
-permalink: /2012/09/data-centers-arent-energy-efficent-where-did-that-come-from/
+redirect_from:
+  - /2012/09/data-centers-arent-energy-efficent-where-did-that-come-from/
 categories:
-  - Tech Policy
+  - tech-policy
 ---
 This morning I ran across a couple of articles - 
 [a piece on the electricity usage of data centers][1] by James Glanz of the New

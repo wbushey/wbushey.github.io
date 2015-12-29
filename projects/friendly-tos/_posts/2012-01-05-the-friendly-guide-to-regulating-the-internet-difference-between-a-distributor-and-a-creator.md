@@ -2,9 +2,8 @@
 title: 'The Friendly Guide to Regulating the Internet: Difference between a Distributor and a Creator'
 author: bill
 layout: post
-permalink: /2012/01/the-friendly-guide-to-regulating-the-internet-difference-between-a-distributor-and-a-creator/
-categories:
-  - Friendly ToS
+redirect_from:
+  - /2012/01/the-friendly-guide-to-regulating-the-internet-difference-between-a-distributor-and-a-creator/
 tags:
   - Internet Governance
 ---

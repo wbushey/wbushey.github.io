@@ -2,7 +2,10 @@
 title: Master's Thesis Materials
 author: bill
 layout: post
-permalink: /masters-thesis/materials/
+redirect_from:
+  - /masters-thesis-material/
+  - /masters-thesis/masters-thesis-material/
+  - /masters-thesis/materials/
 ---
 
 [Click here][1] to download the code for the program written to manage sample frame

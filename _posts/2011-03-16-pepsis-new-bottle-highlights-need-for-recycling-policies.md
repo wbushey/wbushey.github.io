@@ -2,9 +2,10 @@
 title: "Pepsi's new bottle highlights need for recycling policies"
 author: bill
 layout: post
-permalink: /2011/03/pepsis-new-bottle-highlights-need-for-recycling-policies/
+redirect_from:
+  - /2011/03/pepsis-new-bottle-highlights-need-for-recycling-policies/
 categories:
-  - Center for Sustainable Polymers
+  - center-for-sustainable-polymers
 tags:
   - bio-plastics
   - environmental economics

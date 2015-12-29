@@ -2,9 +2,11 @@
 title: E3 - Initial Reactions
 author: bill
 layout: post
-permalink: /2009/11/e3-initial-reactions/
+redirect_from:
+  - /index.php/humphrey-posts/44-center-for-sustainable-polymers/61-e3-initial-reactions
+  - /2009/11/e3-initial-reactions/
 categories:
-  - Center for Sustainable Polymers
+  - center-for-sustainable-polymers
 tags:
   - E3
 ---

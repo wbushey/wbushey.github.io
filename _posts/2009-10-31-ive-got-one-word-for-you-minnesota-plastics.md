@@ -5,9 +5,11 @@ excerpt: |
   An economic argument for why Minnesota should jump start a sustainable
   polymers industry.
 layout: post
-permalink: /2009/10/ive-got-one-word-for-you-minnesota-plastics/
+redirect_from:
+  - /index.php/humphrey-posts/44-center-for-sustainable-polymers/58-ive-got-one-word-for-you-minnesota-plastics
+  - /2009/10/ive-got-one-word-for-you-minnesota-plastics/
 categories:
-  - Center for Sustainable Polymers
+  - center-for-sustainable-polymers
 tags:
   - Plastics Industry
   - Regional Economy

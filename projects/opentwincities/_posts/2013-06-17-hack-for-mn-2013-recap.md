@@ -2,7 +2,8 @@
 title: Hack for MN 2013 Recap
 author: bill
 layout: post
-permalink: /2013/06/hack-for-mn-2013-recap/
+redirect_from:
+  - /2013/06/hack-for-mn-2013-recap/
 tags:
  - hack for mn
 ---

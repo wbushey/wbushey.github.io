@@ -10,9 +10,9 @@ excerpt: |
   public so it can be observed, since it violates the core of research ethics:
   respect for individuals.
 layout: post
-permalink: /2011/09/forced-sharing-on-facebook-is-not-for-researchers/
+redirect_from: /2011/09/forced-sharing-on-facebook-is-not-for-researchers/
 categories:
-  - Tech Policy
+  - tech-policy
 tags:
   - Facebook
   - Privacy

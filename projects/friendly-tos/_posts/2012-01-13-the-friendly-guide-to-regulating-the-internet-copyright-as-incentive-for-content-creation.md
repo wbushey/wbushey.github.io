@@ -2,9 +2,8 @@
 title: 'The Friendly Guide to Regulating the Internet: Copyright as Incentive for Content Creation'
 author: bill
 layout: post
-permalink: /2012/01/the-friendly-guide-to-regulating-the-internet-copyright-as-incentive-for-content-creation/
-categories:
-  - Friendly ToS
+redirect_from:
+  - /2012/01/the-friendly-guide-to-regulating-the-internet-copyright-as-incentive-for-content-creation/
 ---
 Another addition to The Friendly Guide to Regulating the Internet
 

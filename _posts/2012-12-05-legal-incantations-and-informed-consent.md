@@ -2,9 +2,9 @@
 title: Legal Incantations and Informed Consent
 author: bill
 layout: post
-permalink: /2012/12/legal-incantations-and-informed-consent/
+redirect_from: /2012/12/legal-incantations-and-informed-consent/
 categories:
-  - Tech Policy
+  - tech-policy
 ---
 (This is a response to a [piece written by Edward Felten for Tech Policy](http://www.techpolicy.com/Blog/Featured-Blog-Post/Facebook-Copyright-Statement-Not-Entirely-Silly.aspx).
 Check that out first, then read one.)

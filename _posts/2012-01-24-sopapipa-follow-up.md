@@ -2,9 +2,10 @@
 title: SOPA/PIPA Follow Up
 author: bill
 layout: post
-permalink: /2012/01/sopapipa-follow-up/
+redirect_from:
+  - /2012/01/sopapipa-follow-up/
 categories:
-  - Tech Policy
+  - tech-policy
 tags:
   - Apple
   - Intellectual Property

@@ -2,9 +2,8 @@
 title: 'The Friendly Guide to Internet Regulation: Overbroadness and Vagueness'
 author: bill
 layout: post
-permalink: /2011/12/the-friendly-guide-to-internet-regulation-overbroadness-and-vagueness/
-categories:
-  - Friendly ToS
+redirect_from:
+  - /2011/12/the-friendly-guide-to-internet-regulation-overbroadness-and-vagueness/
 ---
 Starting a series on the concepts that define Internet regulation over at 
 FriendlyToS. The first concept to be introduced: overbroadness and vagueness.

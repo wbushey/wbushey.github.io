@@ -2,9 +2,10 @@
 title: Minnesota got to Know this Nerd
 author: bill
 layout: post
-permalink: /2012/10/minnesota-got-to-know-this-nerd/
+redirect_from:
+  - /2012/10/minnesota-got-to-know-this-nerd/
 categories:
-  - Bill
+  - bill
 ---
 Earlier this week I got the chance to do a little Q & A with Minnesota's
 version of TechCrunch, [Tech.mn][1]. Here's an excerpt:

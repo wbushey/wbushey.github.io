@@ -2,9 +2,8 @@
 title: 'The Friendly Guide to Internet Regulation: Prior Restraint'
 author: bill
 layout: post
-permalink: /2011/12/the-friendly-guide-to-internet-regulation-prior-restraint/
-categories:
-  - Friendly ToS
+redirect_from:
+  - /2011/12/the-friendly-guide-to-internet-regulation-prior-restraint/
 ---
 Added a concept to The Friendly Guide to Internet Regulation: prior restraint
 

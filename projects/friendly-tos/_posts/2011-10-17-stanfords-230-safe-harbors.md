@@ -2,7 +2,8 @@
 title: Stanford's 230 Safe Harbors
 author: bill
 layout: post
-permalink: /2011/10/stanfords-230-safe-harbors/
+redirect_from:
+  - /2011/10/stanfords-230-safe-harbors/
 ---
 Seth Woodworth and I have started a site to help consumers understand the
 legalese of websites: [FriendlyToS][1]. Over the coming weeks and months, we'll

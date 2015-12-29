@@ -5,9 +5,10 @@ excerpt: |
   Media that attempts to promote divisive politics are hurting the democratic
   process of the United States.
 layout: post
-permalink: /2010/08/why-i-hate-most-political-reporting/
+redirect_from:
+  - /2010/08/why-i-hate-most-political-reporting/
 categories:
-  - Bill
+  - bill
 tags:
   - Fox News
   - Jon Stewart

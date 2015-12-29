@@ -2,9 +2,8 @@
 title: Minnesota Shutdown Rant
 author: bill
 layout: post
-permalink: /2011/07/minnesota-shutdown-rant/
-categories:
-  - Uncategorized
+redirect_from:
+  - /2011/07/minnesota-shutdown-rant/
 ---
 Minnesota's state government shutdown today, a result of the inability of
 Governor Dayton and the Republican majorities in the legislature to agree on

@@ -6,9 +6,10 @@ excerpt: |
   not be an impetus for removing users from the privacy protection system; it
   should be the subject of policy initiatives that fix the broken system.
 layout: post
-permalink: /2011/08/dont-remove-the-voiceless-from-the-privacy-discussion/
+redirect_from:
+  - /2011/08/dont-remove-the-voiceless-from-the-privacy-discussion/
 categories:
-  - Tech Policy
+  - tech-policy
 tags:
   - Consumer Rights
   - Democratic Social Norm

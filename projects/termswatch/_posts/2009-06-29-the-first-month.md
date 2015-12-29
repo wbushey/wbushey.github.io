@@ -2,7 +2,9 @@
 title: The First Month
 author: bill
 layout: post
-permalink: /2009/06/the-first-month/
+redirect_from:
+  - /index.php/projectslink/36-termswatch/54-the-first-month
+  - /2009/06/the-first-month/
 tags:
   - Berkman Center
   - EFF

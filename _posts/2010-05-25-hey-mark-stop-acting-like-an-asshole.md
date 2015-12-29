@@ -2,9 +2,10 @@
 title: Hey Mark, Stop Acting Like An Asshole
 author: bill
 layout: post
-permalink: /2010/05/hey-mark-stop-acting-like-an-asshole/
+redirect_from:
+  - /2010/05/hey-mark-stop-acting-like-an-asshole/
 categories:
-  - Tech Policy
+  - tech-policy
 tags:
   - Facebook
   - Mark Zuckerberg

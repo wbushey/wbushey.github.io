@@ -2,9 +2,8 @@
 title: 'The Friendly Guide to Regulating the Internet: National Sovereignty'
 author: bill
 layout: post
-permalink: /2012/01/the-friendly-guide-to-regulating-the-internet-national-sovereignty/
-categories:
-  - Friendly ToS
+redirect_from:
+  - /2012/01/the-friendly-guide-to-regulating-the-internet-national-sovereignty/
 ---
 The final section of The Friendly Guide to Regulating the Internet has been 
 added:

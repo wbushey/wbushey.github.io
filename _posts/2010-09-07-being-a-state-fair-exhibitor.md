@@ -2,9 +2,10 @@
 title: Being a State Fair Exhibitor
 author: bill
 layout: post
-permalink: /2010/09/being-a-state-fair-exhibitor/
+redirect_from:
+  - /2010/09/being-a-state-fair-exhibitor/
 categories:
-  - Center for Sustainable Polymers
+  - center-for-sustainable-polymers
 tags:
   - State Fair
 ---

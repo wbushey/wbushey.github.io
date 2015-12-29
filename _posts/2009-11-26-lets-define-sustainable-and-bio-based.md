@@ -7,9 +7,11 @@ excerpt: |
   "bio-based" products. With these terms being thrown around the question is
   bound to come up: what does it mean to be sustainable or bio-based?'
 layout: post
-permalink: /2009/11/lets-define-sustainable-and-bio-based/
+redirect_from:
+  - /index.php/humphrey-posts/44-center-for-sustainable-polymers/62-lets-define-sustainable-and-bio-based
+  - /2009/11/lets-define-sustainable-and-bio-based/
 categories:
-  - Center for Sustainable Polymers
+  - center-for-sustainable-polymers
 tags:
   - Advertising
   - Bio-based

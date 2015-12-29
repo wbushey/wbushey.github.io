@@ -7,9 +7,10 @@ excerpt: |
   platform. As the cloud becomes a new foundation for a generative computing
   platform the question has been raised: so what?
 layout: post
-permalink: /2010/04/why-a-move-to-cloud-computing-matters/
+redirect_from:
+  - /2010/04/why-a-move-to-cloud-computing-matters/
 categories:
-  - Tech Policy
+  - tech-policy
 tags:
   - Cloud Computing
   - Consumer Rights

@@ -7,10 +7,10 @@ excerpt: |
   describes how to prevent Flash from saving cookies, and how to delete
   existing cookies.
 layout: post
-permalink: /2011/01/how-to-delete-flash-cookies/
+redirect_from:
+  - /2011/01/how-to-delete-flash-cookies/
 categories:
-  - Bill
-  - Tech
+  - tech
 tags:
   - Cookies
   - Flash

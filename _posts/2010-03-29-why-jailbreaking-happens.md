@@ -7,9 +7,11 @@ excerpt: |
   desire to change the process that leads to software on the iPad. Autonomy is
   the real motivation.
 layout: post
-permalink: /2010/03/why-jailbreaking-happens/
+redirect_from:
+  - /index.php/component/content/article/40-random-thoughts/65-why-jailbreaking-happens
+  - /2010/03/why-jailbreaking-happens/
 categories:
-  - Tech Policy
+  - tech-policy
 tags:
   - Apple
   - Consumer Rights

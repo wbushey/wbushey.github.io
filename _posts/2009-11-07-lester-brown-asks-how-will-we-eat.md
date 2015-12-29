@@ -2,9 +2,8 @@
 title: 'Lester Brown Asks: How Will We Eat?'
 author: bill
 layout: post
-permalink: /2009/11/lester-brown-asks-how-will-we-eat/
-categories:
-  - Miscellaneous
+redirect_from:
+  - /2009/11/lester-brown-asks-how-will-we-eat/
 tags:
   - Food Supply
   - Global Economics

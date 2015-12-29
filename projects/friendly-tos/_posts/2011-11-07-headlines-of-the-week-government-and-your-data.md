@@ -2,7 +2,8 @@
 title: 'Headlines of the Week &#038; Government and Your Data'
 author: bill
 layout: post
-permalink: /2011/11/headlines-of-the-week-government-and-your-data/
+redirect_from:
+  - /2011/11/headlines-of-the-week-government-and-your-data/
 ---
 Added a couple of posts over at FriendlyToS.
 

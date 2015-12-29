@@ -2,13 +2,14 @@
 title: Master's Thesis
 author: bill
 layout: post 
-permalink: /masters-thesis/
+redirect_from:
+  - /masters-thesis/
 ---
 
 ## An Analysis of Federal Policy on Internet Consumer Privacy and a Study of the Relationship between Privacy, Information, Trust, and Valuation
 
-[Click Here](/files/posts/2013/09/Thesis.docx) to download my thesis on online consumer privacy. You can 
-download materials referenced in the thesis [here](materials/).
+[Click Here][1] to download my thesis on online consumer privacy. You can 
+download materials referenced in the thesis [here][2].
 
 ### Abstract
 
@@ -32,3 +33,6 @@ inform the discussion of three policy alternatives presented in an attempt to
 address the central policy question of this paper: are there actions that
 federal policymakers can take to promote the provision and use of privacy
 information aids?
+
+  [1]: /files/posts/2013/09/Thesis.docx
+  [2]: /projects/masters-thesis/2013/09/14/masters-thesis-materials/

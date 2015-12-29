@@ -11,9 +11,11 @@ excerpt: |
   anti-circumvention rules, and Judge Patel granted a temporary injunction to
   prevent the sale of the products."
 layout: post
-permalink: /2009/08/realdvd-permission-denied/
+redirect_from:
+  - /index.php/component/content/article/40-random-thoughts/57-realdvd-permission-denied
+  - /2009/08/realdvd-permission-denied/
 categories:
-  - Tech Policy
+  - tech-policy
 tags:
   - Innovation
   - Intellectual Property

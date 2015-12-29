@@ -1,7 +1,10 @@
 ---
 author: bill
 layout: post
-permalink: /stop-ad-targeting/
+redirect_from:
+  - /stop-ad-targeting/
+categories:
+  - tech
 ---
 
 

@@ -2,9 +2,10 @@
 title: Letter to the FCC Supporting Broadband Reclassification
 author: bill
 layout: post
-permalink: /2011/08/letter-to-the-fcc-supporting-broadband-reclassification/
+redirect_from:
+  - /2011/08/letter-to-the-fcc-supporting-broadband-reclassification/
 categories:
-  - Tech Policy
+  - tech-policy
 tags:
   - broadband
   - classification

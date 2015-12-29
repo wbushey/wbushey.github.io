@@ -2,9 +2,10 @@
 title: Blog Overhaul
 author: bill
 layout: post
-permalink: /2010/08/blog-overhaul/
+redirect_from:
+  - /2010/08/blog-overhaul/
 categories:
-  - Site News
+  - site-news
 tags:
   - Joomla
   - WordPress

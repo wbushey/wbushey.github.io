@@ -2,9 +2,11 @@
 title: Geocities, I Won't Miss You, But Please Don't Leave
 author: bill
 layout: post
-permalink: /2009/10/geocities-i-wont-miss-you-but-please-dont-leave/
+redirect_from:
+  - /index.php/component/content/article/40-random-thoughts/59-geocities-i-wont-miss-you
+  - /2009/10/geocities-i-wont-miss-you-but-please-dont-leave/
 categories:
-  - Tech
+  - tech
 tags:
   - Geocities
   - Internet History

@@ -2,9 +2,10 @@
 title: Yet Another "What the Google/Verizon Proposal Means for the Internet" Post
 author: bill
 layout: post
-permalink: /2010/08/yet-another-%c2%93what-the-googleverizon-proposal-means-for-the-internet%c2%94-post/
+redirect_from:
+  - /2010/08/yet-another-%c2%93what-the-googleverizon-proposal-means-for-the-internet%c2%94-post/
 categories:
-  - Tech Policy
+  - tech-policy
 tags:
   - FCC
   - Google

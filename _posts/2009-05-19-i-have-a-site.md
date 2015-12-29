@@ -2,9 +2,10 @@
 title: I Have A Site
 author: bill
 layout: post
-permalink: /2009/05/i-have-a-site/
+redirect_from:
+  - /2009/05/i-have-a-site/
 categories:
-  - Site News
+  - site-news
 ---
 Well here it is, I finally have a home on the web. I figured I was being a
 pretty bad computer nerd by not having a site of my own, so I setup Joomla on

@@ -5,9 +5,10 @@ excerpt: |
   A hypothetical change to the Copyright Act could make align penalties with
   actual damages.
 layout: post
-permalink: /2010/01/music-and-tech-change-what-about-laws/
+redirect_from:
+  - /2010/01/music-and-tech-change-what-about-laws/
 categories:
-  - Tech Policy
+  - tech-policy
 tags:
   - Copyright Act
   - Intellectual Property

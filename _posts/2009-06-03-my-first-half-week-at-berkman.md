@@ -3,9 +3,11 @@ title: My First (Half) Week at Berkman
 author: bill
 excerpt: My first week as an intern at the Berkman Center.
 layout: post
-permalink: /2009/06/my-first-half-week-at-berkman/
+redirect_from:
+  - /index.php/component/content/article/35-events/52-my-first-half-week-at-berkman
+  - /2009/06/my-first-half-week-at-berkman/
 categories:
-  - Bill
+  - bill
 tags:
   - Berkman Center
   - Perspective
