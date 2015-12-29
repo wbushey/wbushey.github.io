@@ -6,7 +6,7 @@ baseurl: ""
 url: "http://wbushey.com/"
 title_description: ""
 title_image: "http://www.gravatar.com/avatar/0b3f3f81b778a8825c7ead81fe706dbb?s=500&d=mm"
-google_analytics: ""
+google_analytics: "UA-46474005-1"
 disqus_account: wbushey
 github_repository: https://github.com/wbushey/wbushey.github.io
 addthis_id: 
