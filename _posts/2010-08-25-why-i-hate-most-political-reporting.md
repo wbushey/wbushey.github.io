@@ -1,6 +1,6 @@
 ---
 title: Why I Hate Most Political Reporting
-author: bill
+author: Bill
 excerpt: |
   Media that attempts to promote divisive politics are hurting the democratic
   process of the United States.

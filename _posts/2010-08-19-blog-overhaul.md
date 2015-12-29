@@ -1,6 +1,6 @@
 ---
 title: Blog Overhaul
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2010/08/blog-overhaul/

@@ -1,6 +1,6 @@
 ---
 title: SOPA/PIPA Follow Up
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2012/01/sopapipa-follow-up/

@@ -1,6 +1,6 @@
 ---
 title: Minnesota got to Know this Nerd
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2012/10/minnesota-got-to-know-this-nerd/

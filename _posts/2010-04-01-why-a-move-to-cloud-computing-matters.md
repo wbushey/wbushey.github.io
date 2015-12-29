@@ -1,6 +1,6 @@
 ---
 title: Why a Move to Cloud Computing Matters
-author: bill
+author: Bill
 excerpt: |
   Beginning in the mid to late years of the first decade of the 21st  century,
   the Internet became a feasible foundation for a cloud based computing

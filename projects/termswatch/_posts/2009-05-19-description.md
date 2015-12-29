@@ -1,6 +1,6 @@
 ---
 title: Description of TermsWatch
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2009/05/description/

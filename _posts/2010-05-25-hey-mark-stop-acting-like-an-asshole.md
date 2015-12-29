@@ -1,6 +1,6 @@
 ---
 title: Hey Mark, Stop Acting Like An Asshole
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2010/05/hey-mark-stop-acting-like-an-asshole/

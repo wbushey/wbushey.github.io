@@ -1,6 +1,6 @@
 ---
 title: The First Month
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /index.php/projectslink/36-termswatch/54-the-first-month

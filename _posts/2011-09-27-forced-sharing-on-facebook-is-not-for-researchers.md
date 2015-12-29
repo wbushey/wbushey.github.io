@@ -1,6 +1,6 @@
 ---
 title: Forced Sharing on Facebook is Not for Researchers
-author: bill
+author: Bill
 excerpt: |
   Lets put aside Facebook's relationship with research, and instead focus on
   the ethics of research. Ethical researchers won't be very happy with this

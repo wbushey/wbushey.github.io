@@ -1,6 +1,6 @@
 ---
 title: Lets Define Sustainable and Bio-based
-author: bill
+author: Bill
 excerpt: |
   'As we make scientific and commercial advancements in bio-based energy and
   building materials we are witnessing an emerging market for "sustainable" and

@@ -1,6 +1,6 @@
 ---
 title: My First (Half) Week at Berkman
-author: bill
+author: Bill
 excerpt: My first week as an intern at the Berkman Center.
 layout: post
 redirect_from:

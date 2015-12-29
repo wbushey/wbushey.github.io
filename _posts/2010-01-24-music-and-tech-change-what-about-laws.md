@@ -1,6 +1,6 @@
 ---
 title: Music and Tech Change, What About Laws?
-author: bill
+author: Bill
 excerpt: |
   A hypothetical change to the Copyright Act could make align penalties with
   actual damages.

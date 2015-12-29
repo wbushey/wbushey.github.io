@@ -1,6 +1,6 @@
 ---
 title: E3 - Initial Reactions
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /index.php/humphrey-posts/44-center-for-sustainable-polymers/61-e3-initial-reactions

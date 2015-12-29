@@ -1,6 +1,6 @@
 ---
 title: 'The Friendly Guide to Internet Regulation: Overbroadness and Vagueness'
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2011/12/the-friendly-guide-to-internet-regulation-overbroadness-and-vagueness/

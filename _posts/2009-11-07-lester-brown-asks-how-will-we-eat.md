@@ -1,6 +1,6 @@
 ---
 title: 'Lester Brown Asks: How Will We Eat?'
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2009/11/lester-brown-asks-how-will-we-eat/

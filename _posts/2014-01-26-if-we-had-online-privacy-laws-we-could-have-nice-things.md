@@ -1,6 +1,6 @@
 ---
 title: If we had online privacy laws, we could have nice things
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2014/01/if-we-had-online-privacy-laws-we-could-have-nice-things/

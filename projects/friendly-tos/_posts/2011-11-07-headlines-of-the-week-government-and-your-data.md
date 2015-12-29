@@ -1,6 +1,6 @@
 ---
 title: 'Headlines of the Week &#038; Government and Your Data'
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2011/11/headlines-of-the-week-government-and-your-data/

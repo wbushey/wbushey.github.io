@@ -1,6 +1,6 @@
 ---
 title: I've Got One Word For You Minnesota, Plastics!
-author: bill
+author: Bill
 excerpt: |
   An economic argument for why Minnesota should jump start a sustainable
   polymers industry.

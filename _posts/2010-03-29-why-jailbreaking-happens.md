@@ -1,6 +1,6 @@
 ---
 title: Why Jailbreaking Happens
-author: bill
+author: Bill
 excerpt: |
   While analysis continues to revolve around the quality and features of the
   software on the iPad, the issue that really motivates jailbreaking is the

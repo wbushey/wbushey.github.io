@@ -1,6 +1,6 @@
 ---
 title: Data centers aren't energy efficent? Where did that come from?
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2012/09/data-centers-arent-energy-efficent-where-did-that-come-from/

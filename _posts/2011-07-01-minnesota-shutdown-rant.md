@@ -1,6 +1,6 @@
 ---
 title: Minnesota Shutdown Rant
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2011/07/minnesota-shutdown-rant/

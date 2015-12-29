@@ -1,6 +1,6 @@
 ---
 title: If All The World Is A Stage Then I Have Front Row Seats
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /index.php/component/content/article/40-random-thoughts/55-if-all-the-world-is-a-stage-then-i-have-front-row-seats

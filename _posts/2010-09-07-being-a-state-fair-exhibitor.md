@@ -1,6 +1,6 @@
 ---
 title: Being a State Fair Exhibitor
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2010/09/being-a-state-fair-exhibitor/

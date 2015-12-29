@@ -1,6 +1,6 @@
 ---
 title: A National Priority of Clear Notice
-author: bill
+author: Bill
 excerpt: "Why aren't clear notices a national priority? Siegel thinks they should be. The FTC has stated again and again that consumer notices should be clear and easy to understand. Unfortunately, industry self-regulation bodies and Congress don't seem to be as interested in presenting consumers with clear and transparent information."
 layout: post
 redirect_from:

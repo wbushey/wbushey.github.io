@@ -1,6 +1,6 @@
 ---
 title: Geocities, I Won't Miss You, But Please Don't Leave
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /index.php/component/content/article/40-random-thoughts/59-geocities-i-wont-miss-you

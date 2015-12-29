@@ -1,6 +1,6 @@
 ---
 title: 'Minnebar 8 Presentation - Civic Hacking and Open Data'
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2013/05/minnebar-8-presentation-civic-hacking-and-open-data/

@@ -1,5 +1,5 @@
 ---
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /stop-ad-targeting/

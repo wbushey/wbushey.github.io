@@ -1,6 +1,6 @@
 ---
 title: RealDVD - Permission Denied
-author: bill
+author: Bill
 excerpt: |
   I first noticed this story at Ars Technica: RealNetworks decided it was going
   to produce and sell a product called RealDVD that would allow a user to

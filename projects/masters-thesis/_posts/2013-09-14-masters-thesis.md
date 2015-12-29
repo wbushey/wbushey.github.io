@@ -1,6 +1,6 @@
 ---
 title: Master's Thesis
-author: bill
+author: Bill
 layout: post 
 redirect_from:
   - /masters-thesis/

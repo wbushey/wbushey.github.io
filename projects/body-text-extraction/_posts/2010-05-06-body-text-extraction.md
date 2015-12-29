@@ -1,6 +1,6 @@
 ---
 title: Body Text Extraction
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /index.php/projectslink/38-past-projects/67-body-text-extraction

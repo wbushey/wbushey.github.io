@@ -1,6 +1,6 @@
 ---
 title: Stanford's 230 Safe Harbors
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2011/10/stanfords-230-safe-harbors/

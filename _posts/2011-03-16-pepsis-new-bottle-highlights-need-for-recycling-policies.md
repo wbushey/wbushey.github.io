@@ -1,6 +1,6 @@
 ---
 title: "Pepsi's new bottle highlights need for recycling policies"
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2011/03/pepsis-new-bottle-highlights-need-for-recycling-policies/

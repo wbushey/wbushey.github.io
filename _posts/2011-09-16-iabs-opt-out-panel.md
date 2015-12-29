@@ -1,6 +1,6 @@
 ---
 title: IAB's Opt-Out Panel
-author: bill
+author: Bill
 excerpt: |
   While the new code of conduct has taken flack for not actually providing
   clear notice, this latest action by the IAB does bring some attention to the

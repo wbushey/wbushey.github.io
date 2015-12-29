@@ -1,6 +1,6 @@
 ---
 title: How a tech company doesn't get the Digital Divide
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2012/01/how-a-tech-company-doesnt-get-the-digital-divide/

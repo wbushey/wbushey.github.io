@@ -1,6 +1,6 @@
 ---
 title: 'The Friendly Guide to Internet Regulation: Prior Restraint'
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2011/12/the-friendly-guide-to-internet-regulation-prior-restraint/

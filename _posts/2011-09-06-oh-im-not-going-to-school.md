@@ -1,6 +1,6 @@
 ---
 title: "Oh, I'm Not Going to School"
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2011/09/oh-im-not-going-to-school/

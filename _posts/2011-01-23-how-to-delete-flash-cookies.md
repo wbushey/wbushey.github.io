@@ -1,6 +1,6 @@
 ---
 title: How To Delete Flash Cookies
-author: bill
+author: Bill
 excerpt: |
   Flash cookies are a way for websites to backup their regular browser cookies
   and for trackers to piece together your browsing history. This entry

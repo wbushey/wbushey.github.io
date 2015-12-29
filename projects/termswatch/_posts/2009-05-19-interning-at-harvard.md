@@ -1,6 +1,6 @@
 ---
 title: Interning at Harvard
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2009/05/interning-at-harvard/

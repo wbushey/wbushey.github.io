@@ -1,6 +1,6 @@
 ---
 title: Master's Thesis Materials
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /masters-thesis-material/

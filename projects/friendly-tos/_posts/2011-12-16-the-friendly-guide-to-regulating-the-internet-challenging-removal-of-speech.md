@@ -1,6 +1,6 @@
 ---
 title: 'The Friendly Guide to Regulating the Internet: Challenging Removal of Speech'
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2011/12/the-friendly-guide-to-regulating-the-internet-challenging-removal-of-speech/

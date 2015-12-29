@@ -1,6 +1,6 @@
 ---
 title: I Have A Site
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2009/05/i-have-a-site/

@@ -1,6 +1,6 @@
 ---
 title: Hack for MN 2013 Recap
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2013/06/hack-for-mn-2013-recap/

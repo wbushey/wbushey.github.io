@@ -1,6 +1,6 @@
 ---
 title: Stop Online Tracking
-author: bill
+author: Bill
 layout: post
 redirect_from:
   - /2011/04/stop-online-tracking/

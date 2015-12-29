@@ -1,6 +1,6 @@
 ---
 title: Don't Remove The Voiceless From The Privacy Discussion
-author: bill
+author: Bill
 excerpt: |
   The fact that companies disregard the voiced privacy choices of users should
   not be an impetus for removing users from the privacy protection system; it

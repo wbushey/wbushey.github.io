@@ -1,6 +1,6 @@
 ---
 title: Legal Incantations and Informed Consent
-author: bill
+author: Bill
 layout: post
 redirect_from: /2012/12/legal-incantations-and-informed-consent/
 categories:
