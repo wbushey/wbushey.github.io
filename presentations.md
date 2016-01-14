@@ -3,6 +3,9 @@ title: Presentations
 layout: page
 ---
 
+ * Humphrey Career Exploration Trip 2016
+  * St. Paul, MN - January 14, 2016
+  * Panelists on Nontraditional Policy Change
  * Minnesota Government IT Symposium 2015
   * St. Paul, MN - December 12 - 14, 2015
   * Co-Hosted Open Government Summit; Moderated Summit Panel
