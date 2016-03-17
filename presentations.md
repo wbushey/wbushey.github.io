@@ -3,6 +3,9 @@ title: Presentations
 layout: page
 ---
 
+ * Library Technology Conference 2016
+  * St. Paul, MN - March 17th, 2016
+  * Co-Presented on the [combination of civic technology and libraries as a third space for community discussion and engagement](https://docs.google.com/presentation/d/1_xUjpXulUwn609upOMEMkrF0dGg8LhKeNdyV5rkHE2c/edit?usp=sharing)
  * Humphrey Career Exploration Trip 2016
   * St. Paul, MN - January 14, 2016
   * Panelists on Nontraditional Policy Change
