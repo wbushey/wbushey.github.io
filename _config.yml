@@ -31,11 +31,10 @@ project_names:
   termswatch: TermsWatch
 
 # Build settings
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript"]
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
 permalink: pretty
-exclude: [vendor]
+exclude: [vendor, Gemfile, Gemfile.lock]
 gems:
   - jekyll-feed
   - jekyll-redirect-from
