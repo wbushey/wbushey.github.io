@@ -36,7 +36,7 @@ kramdown:
   smart_quotes: ["apos", "apos", "quot", "quot"]
 permalink: pretty
 exclude: [vendor, Gemfile, Gemfile.lock]
-gems:
+plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-sitemap
