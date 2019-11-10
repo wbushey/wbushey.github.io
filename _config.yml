@@ -3,9 +3,9 @@ name: "Bill Bushey"
 email: 
 description: ""
 baseurl: ""
-url: "http://wbushey.com/"
+url: "https://wbushey.com/"
 title_description: ""
-title_image: "http://www.gravatar.com/avatar/0b3f3f81b778a8825c7ead81fe706dbb?s=500&d=mm"
+title_image: "https://www.gravatar.com/avatar/0b3f3f81b778a8825c7ead81fe706dbb?s=500&d=mm"
 google_analytics: "UA-46474005-1"
 disqus_account: wbushey
 github_repository: https://github.com/wbushey/wbushey.github.io
@@ -15,7 +15,7 @@ post_limit: 5
 # Social usernames/URLs
 twitter_username: wbushey
 github_username:  wbushey
-linkedin_link: https://www.linkedin.com/in/williambushey 
+linkedin_link: https://www.linkedin.com/in/williambushey
 google_plus_link: 
 stackoverflow_link: 
 
